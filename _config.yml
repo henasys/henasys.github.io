@@ -278,5 +278,12 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true      
 
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
