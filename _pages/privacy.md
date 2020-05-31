@@ -1,5 +1,9 @@
 ---
+permalink: /privacy/
 title: 개인정보처리방침 Privacy Policy
+excerpt: "ICT Development Company"
+# last_modified_at: 2020-03-23T14:07:54-04:00
+toc: true
 ---
 
 ****
