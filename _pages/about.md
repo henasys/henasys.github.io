@@ -21,6 +21,7 @@ ICT 기술이 사람을 이롭게 하고, 자연과 함께 살아가는 데 크�
   - [개발 블로그](https://blog.naver.com/PostList.nhn?blogId=henasys&from=postList&categoryNo=10)
   - [GitHub](https://github.com/henasys/car-log)
   - [안드로이드](https://play.google.com/store/apps/details?id=com.henasys.app.carlog)
+  - [아이폰](https://apps.apple.com/app/id1516086800)
 
 * BookLover 책사랑꾼
   - 책을 사랑하는 사람이 혼자 쓰는 도서 관리 앱
